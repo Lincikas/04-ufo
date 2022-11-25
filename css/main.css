@@ -1,0 +1,55 @@
+:root {
+    --main-color: #4e78e5;
+    --width: 1000px;
+} 
+
+.body-style {
+    background-color: #4e78e5;
+    }
+
+.main-style {
+     display: inline-block;
+     width: 50%;
+     margin-top: 170px;
+     margin-left: 25%;
+}
+
+.div-style {
+     width: 35%;
+     float: left;
+     margin-top: 100px;
+}
+
+.h1 {
+    color: white;
+    font-size: 80px;
+    margin: 0;
+    font-family: fantasy;
+    font-weight: normal;
+}
+
+.paraste {
+    color: white;
+    text-transform: uppercase;
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-family: fantasy;
+}
+
+.a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial;
+    border: 2px solid white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 21px;
+}
+
+.img {
+    width: 60%; float: right;
+}
